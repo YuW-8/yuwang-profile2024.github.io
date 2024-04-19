@@ -17,49 +17,48 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Illinois at Urbana-Champaign
-    url: https://www.stanford.edu/
+    url: https://mcb.illinois.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include molecular biology and immune-oncology, immunotherapy, cancer drug development, and computer programming.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cancer immunology
+  - Next generation sequencing (NGS)
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Molecular and Integrative Physiology (MIP)
+      institution: University of Illinois Urbana-Champaign
+      year: 2020 - Present
+    - course: MS in Library and Information Science, with Focus in Bioinformatics
+      institution: University of Illinois Urbana-Champaign
+      year: 2019
+    - course: BS in Molecular Biology
+      institution: Indiana University
+      year: 2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
+      - name: R
+        description: ''
+        percent: 90
+        icon: R
+        icon_pack: fas
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
@@ -75,10 +74,10 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
         icon_pack: fas
       - name: Photography
         description: ''
@@ -120,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yu Wang is a 4th year PhD student at University of Illinois Urbana-Champaign. Her research interests include molecular biology and immune-oncology, immunotherapy, and computer programming. She has a long-term academic goal to apply the bioinformatics skills to cancer research.
 {style="text-align: justify;"}
